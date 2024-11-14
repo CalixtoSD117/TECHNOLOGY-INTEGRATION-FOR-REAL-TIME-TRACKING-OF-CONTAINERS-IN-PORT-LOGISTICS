@@ -1,9 +1,5 @@
 # 🛰️ **TECHNOLOGY-INTEGRATION-FOR-REAL-TIME-TRACKING-OF-CONTAINERS-IN-PORT-LOGISTICS**
 
-Welcome to **My React App**, a fast and modern front-end application built using [React.js](https://reactjs.org/) and powered by the lightning-fast [Vite](https://vitejs.dev/).
-
----
-
 ## 🚀 **Features**
 
 - **⚡️ Vite** - Super fast build tool and development server.
